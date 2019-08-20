@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-08-20">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="ФГБНУ `ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ КУКУРУЗЫ`" label="ФГБНУ `ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ КУКУРУЗЫ`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="338.48434" y="242.5253"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ООО СП ССК `КУКУРУЗА`" label="ООО СП ССК `КУКУРУЗА`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="432.0366" y="190.90857"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ИНСТИТУТ СЕЛЬСКОГО ХОЗЯЙСТВА СТЕПНОЙ ЗОНЫ НААНУ" label="ИНСТИТУТ СЕЛЬСКОГО ХОЗЯЙСТВА СТЕПНОЙ ЗОНЫ НААНУ">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-56.43555" y="34.54702"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ООО `ЭЛИТА` ШЕБЕКИНСКИЙ Р-Н" label="ООО `ЭЛИТА` ШЕБЕКИНСКИЙ Р-Н">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-129.47545" y="-64.8075"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ФГБНУ `НАЦИОНАЛЬНЫЙ ЦЕНТР ЗЕРНА ИМЕНИ П.П. ЛУКЬЯНЕНКО`" label="ФГБНУ `НАЦИОНАЛЬНЫЙ ЦЕНТР ЗЕРНА ИМЕНИ П.П. ЛУКЬЯНЕНКО`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-33.448338" y="94.07197"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ООО НПО `КУБАНЬЗЕРНО`" label="ООО НПО `КУБАНЬЗЕРНО`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.26558006" y="146.46599"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="PIONEER OVERSEAS CORPORATION" label="PIONEER OVERSEAS CORPORATION">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="460.78198" y="-14.571741"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="PIONEER HI-BRED INTERNATIONAL INC." label="PIONEER HI-BRED INTERNATIONAL INC.">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="564.35077" y="-77.341446"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ФГБНУ `УЛЬЯНОВСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ СЕЛЬСКОГО ХОЗЯЙСТВА`" label="ФГБНУ `УЛЬЯНОВСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ СЕЛЬСКОГО ХОЗЯЙСТВА`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-194.42587" y="-302.5123"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ФГБНУ `ФЕДЕРАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР `НЕМЧИНОВКА`" label="ФГБНУ `ФЕДЕРАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР `НЕМЧИНОВКА`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-246.57593" y="-244.54155"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ФГБНУ `ВЕРХНЕВОЛЖСКИЙ ФАНЦ`" label="ФГБНУ `ВЕРХНЕВОЛЖСКИЙ ФАНЦ`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-103.129074" y="-186.46254"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ФГБНУ РОССИЙСКИЙ НИПТИ СОРГО И КУКУРУЗЫ" label="ФГБНУ РОССИЙСКИЙ НИПТИ СОРГО И КУКУРУЗЫ">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="182.38037" y="-365.76074"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ЖУЖУКИН ВАЛЕРИЙ ИВАНОВИЧ" label="ЖУЖУКИН ВАЛЕРИЙ ИВАНОВИЧ">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="176.63792" y="-423.6819"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="РУП `НАУЧНО-ПРАКТИЧЕСКИЙ ЦЕНТР НАН БЕЛАРУСИ ПО ЗЕМЛЕДЕЛИЮ`" label="РУП `НАУЧНО-ПРАКТИЧЕСКИЙ ЦЕНТР НАН БЕЛАРУСИ ПО ЗЕМЛЕДЕЛИЮ`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-367.08636" y="-128.83862"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ФГБНУ `ОМСКИЙ АГРАРНЫЙ НАУЧНЫЙ ЦЕНТР`" label="ФГБНУ `ОМСКИЙ АГРАРНЫЙ НАУЧНЫЙ ЦЕНТР`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-350.66656" y="358.56958"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ООО `АГРОКОМПЛЕКС `КУРГАНСЕМЕНА`" label="ООО `АГРОКОМПЛЕКС `КУРГАНСЕМЕНА`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-129.08601" y="410.12985"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ФГБНУ `ФЕДЕРАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР ИНСТИТУТ ЦИТОЛОГИИ И ГЕНЕТИКИ СИБИРСКОГО ОТДЕЛЕНИЯ РОССИЙСКОЙ АКАДЕМИИ НАУК`" label="ФГБНУ `ФЕДЕРАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР ИНСТИТУТ ЦИТОЛОГИИ И ГЕНЕТИКИ СИБИРСКОГО ОТДЕЛЕНИЯ РОССИЙСКОЙ АКАДЕМИИ НАУК`">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-123.981094" y="304.95694"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1388" source="ФГБНУ `ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ КУКУРУЗЫ`" target="ООО СП ССК `КУКУРУЗА`" weight="14.0"></edge>
+      <edge id="1404" source="ИНСТИТУТ СЕЛЬСКОГО ХОЗЯЙСТВА СТЕПНОЙ ЗОНЫ НААНУ" target="ООО `ЭЛИТА` ШЕБЕКИНСКИЙ Р-Н" weight="4.0"></edge>
+      <edge id="1410" source="ФГБНУ `НАЦИОНАЛЬНЫЙ ЦЕНТР ЗЕРНА ИМЕНИ П.П. ЛУКЬЯНЕНКО`" target="ООО НПО `КУБАНЬЗЕРНО`" weight="32.0"></edge>
+      <edge id="1444" source="PIONEER OVERSEAS CORPORATION" target="PIONEER HI-BRED INTERNATIONAL INC." weight="6.0"></edge>
+      <edge id="1452" source="ФГБНУ `УЛЬЯНОВСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ СЕЛЬСКОГО ХОЗЯЙСТВА`" target="ФГБНУ `ФЕДЕРАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР `НЕМЧИНОВКА`" weight="4.0"></edge>
+      <edge id="1458" source="ФГБНУ `ФЕДЕРАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР `НЕМЧИНОВКА`" target="ФГБНУ `ВЕРХНЕВОЛЖСКИЙ ФАНЦ`" weight="2.0"></edge>
+      <edge id="1460" source="ФГБНУ РОССИЙСКИЙ НИПТИ СОРГО И КУКУРУЗЫ" target="ЖУЖУКИН ВАЛЕРИЙ ИВАНОВИЧ" weight="18.0"></edge>
+      <edge id="1482" source="ФГБНУ `ВЕРХНЕВОЛЖСКИЙ ФАНЦ`" target="РУП `НАУЧНО-ПРАКТИЧЕСКИЙ ЦЕНТР НАН БЕЛАРУСИ ПО ЗЕМЛЕДЕЛИЮ`" weight="4.0"></edge>
+      <edge id="1485" source="ФГБНУ `ОМСКИЙ АГРАРНЫЙ НАУЧНЫЙ ЦЕНТР`" target="ООО `АГРОКОМПЛЕКС `КУРГАНСЕМЕНА`" weight="2.0"></edge>
+      <edge id="1487" source="ФГБНУ `ОМСКИЙ АГРАРНЫЙ НАУЧНЫЙ ЦЕНТР`" target="ФГБНУ `ФЕДЕРАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР ИНСТИТУТ ЦИТОЛОГИИ И ГЕНЕТИКИ СИБИРСКОГО ОТДЕЛЕНИЯ РОССИЙСКОЙ АКАДЕМИИ НАУК`" weight="2.0"></edge>
+      <edge id="1494" source="ООО `АГРОКОМПЛЕКС `КУРГАНСЕМЕНА`" target="ФГБНУ `ФЕДЕРАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР ИНСТИТУТ ЦИТОЛОГИИ И ГЕНЕТИКИ СИБИРСКОГО ОТДЕЛЕНИЯ РОССИЙСКОЙ АКАДЕМИИ НАУК`" weight="2.0"></edge>
+    </edges>
+  </graph>
+</gexf>
